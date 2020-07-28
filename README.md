@@ -4,6 +4,11 @@
 
 ## :pencil2: Design
 
+### :iphone: Mobile
+
+<img src='assets/home.jpg' width='300' height='650'>     <img src='assets/home-mobile.png' width='300' height='650'>      <img src='assets/detalhes-mobile.svg' width='300' height='650'>
+
+### :computer: Web
 :construction: Em construção :construction:
 
 ## :recycle: Sobre o projeto
