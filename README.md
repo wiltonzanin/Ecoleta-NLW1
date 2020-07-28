@@ -36,7 +36,7 @@ Este projeto foi desenvolvido durante a **Next Level Week 01 (NLW)** organizada 
 
 ### :computer: Web
 
-<img src='assets/aplicacao-web.png' height='1000'>
+<img src='assets/EcoletaWeb.gif'>
 
 ## :computer: Tecnologias utilizadas
 
