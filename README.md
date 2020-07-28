@@ -32,7 +32,7 @@ Este projeto foi desenvolvido durante a **Next Level Week 01 (NLW)** organizada 
 
 ### :iphone: Mobile
 
-<img src='assets/home.jpg' width='250' height='541'>        <img src='assets/home-mobile.png' width='250' height='541'>        <img src='assets/detalhes-mobile.svg' width='250' height='541'>
+<img src='assets/home.jpg' width='250' height='541'>          <img src='assets/home-mobile.png' width='250' height='541'>          <img src='assets/detalhes-mobile.svg' width='250' height='541'>
 
 ### :computer: Web
 
