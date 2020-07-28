@@ -2,15 +2,6 @@
 
 <img src='assets/banner.png'>
 
-## :pencil2: Design
-
-### :iphone: Mobile
-
-<img src='assets/home.jpg' width='300' height='650'>     <img src='assets/home-mobile.png' width='300' height='650'>      <img src='assets/detalhes-mobile.svg' width='300' height='650'>
-
-### :computer: Web
-:construction: Em construção :construction:
-
 ## :recycle: Sobre o projeto
 
 Ecoleta é uma aplicação que auxilia pessoas a encontrar rapidamente estabelecimentos com pontos de coleta de residuos cadastrados em sua cidade ou em qualquer lugar do mundo.
@@ -36,6 +27,16 @@ Os usuários terão acesso ao aplicativo mobile onde poderão:
 - Entrar em contato com o estabelecimento via E-mail ou WhatsApp
 
 Este projeto foi desenvolvido durante a **Next Level Week 01 (NLW)** organizada e disponibilizada pela [Rocketseat](https://rocketseat.com.br/). A **NLW** é um evento 100% online e gratuito para dar o próximo passo na evolução como programadora ou programador.
+
+## :pencil2: Design
+
+### :iphone: Mobile
+
+<img src='assets/home.jpg' width='300' height='650'>     <img src='assets/home-mobile.png' width='300' height='650'>      <img src='assets/detalhes-mobile.svg' width='300' height='650'>
+
+### :computer: Web
+
+<img src='assets/aplicacao-web.png' height='1000'>
 
 ## :computer: Tecnologias utilizadas
 
