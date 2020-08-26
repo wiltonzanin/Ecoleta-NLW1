@@ -89,6 +89,10 @@ Este projeto foi desenvolvido durante a **Next Level Week 01 (NLW)** organizada 
 
 ## :arrow_forward: Executando o projeto
 
+### Requisitos
+
+Este projeto foi desenvolvido em React, ou seja, para executar o mesmo é necessário que você tenha instalado o [Node.JS](https://nodejs.org/en/).
+
 ### Baixando o projeto
 
 Caso você tenha o GIT instalado em seu computador execute o comando: 
@@ -96,10 +100,6 @@ Caso você tenha o GIT instalado em seu computador execute o comando:
 `git clone https://github.com/wiltonzanin/Ecoleta-NLW1.git`
 
 Se não possuir o GIT clique no botão CODE e baixe no formato .zip
-
-### Requisitos
-
-Este projeto foi desenvolvido em React, ou seja, para executar o mesmo é necessário que você tenha instalado o [Node.JS](https://nodejs.org/en/).
 
 ### Configurações iniciais
 
