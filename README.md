@@ -34,8 +34,6 @@ Sumário
  1. [Design](#design)
  2. [Tecnologias utilizadas](#tecnologiasUtilizadas)
  3. [Executando o projeto](#executandoProjeto)
- 4. [Baixando o projeto](#baixandoProjeto)
-
 *******
 
 ## :pencil2: Design
@@ -50,9 +48,9 @@ Sumário
 
 <img src='assets/EcoletaWeb.gif'>
 
-## :computer: Tecnologias utilizadas
-
 <div id='tecnologiasUtilizadas'/>
+
+## :computer: Tecnologias utilizadas
 
 ### Resumo
 
@@ -101,17 +99,15 @@ Sumário
 - Ícones: [Feather Icons](https://feathericons.com/), [Font Awesome](https://fontawesome.com/)
 - Fontes: [Ubuntu, Roboto](https://fonts.google.com/?sidebar.open=true&selection.family=Roboto:wght@500|Ubuntu:wght@500&preview.text=Ecoleta&preview.text_type=custom)
 
-## :arrow_forward: Executando o projeto
-
 <div id='executandoProjeto'/>
+
+## :arrow_forward: Executando o projeto
 
 ### Requisitos
 
 Este projeto foi desenvolvido em React, ou seja, para executar o mesmo é necessário que você tenha instalado o [Node.JS](https://nodejs.org/en/).
 
 ### Baixando o projeto
-
-<div id='baixandoProjeto'/>
 
 Caso você tenha o GIT instalado em seu computador execute o comando: 
 
