@@ -28,7 +28,19 @@ Os usuários terão acesso ao aplicativo mobile onde poderão:
 
 Este projeto foi desenvolvido durante a **Next Level Week 01 (NLW)** organizada e disponibilizada pela [Rocketseat](https://rocketseat.com.br/). A **NLW** é um evento 100% online e gratuito para dar o próximo passo na evolução como programadora ou programador.
 
+*******
+Sumário
+
+ 1. [Design](#design)
+ 2. [Tecnologias utilizadas](#tecnologiasUtilizadas)
+ 3. [Executando o projeto](#executandoProjeto)
+ 4. [Baixando o projeto](#baixandoProjeto)
+
+*******
+
 ## :pencil2: Design
+
+<div id='design'/>
 
 ### :iphone: Mobile
 
@@ -39,6 +51,8 @@ Este projeto foi desenvolvido durante a **Next Level Week 01 (NLW)** organizada 
 <img src='assets/EcoletaWeb.gif'>
 
 ## :computer: Tecnologias utilizadas
+
+<div id='tecnologiasUtilizadas'/>
 
 ### Resumo
 
@@ -89,11 +103,15 @@ Este projeto foi desenvolvido durante a **Next Level Week 01 (NLW)** organizada 
 
 ## :arrow_forward: Executando o projeto
 
+<div id='executandoProjeto'/>
+
 ### Requisitos
 
 Este projeto foi desenvolvido em React, ou seja, para executar o mesmo é necessário que você tenha instalado o [Node.JS](https://nodejs.org/en/).
 
 ### Baixando o projeto
+
+<div id='baixandoProjeto'/>
 
 Caso você tenha o GIT instalado em seu computador execute o comando: 
 
